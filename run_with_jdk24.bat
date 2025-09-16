@@ -1,3 +1,3 @@
 chcp 65001
-call D:\developer\jdk-24\bin\java -jar target/spring-petclinic-3.1.0-SNAPSHOT.jar
+call D:\developer\jdk-24\bin\java -jar target/spring-petclinic-3.5.0-SNAPSHOT.jar
 pause
